@@ -3,7 +3,7 @@ A real working HTML JS CSS PHP etc.. and MYSQL app packer!
 
 ![image](https://github.com/hitsfm/PHP2EXE/blob/main/screenshot.png)
 
-*Advanced users take a look at Syntax options below to add/activate PHP extentions and a simple MYSQL database to your project if needed. Default setting will not auto import SQL.
+*Advanced users take a look at Syntax options below to add/activate PHP extensions and a simple MYSQL database to your project if needed. Default setting will not auto import SQL.
 
 
 Steps:
