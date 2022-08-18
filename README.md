@@ -7,6 +7,7 @@ A real working HTML JS CSS PHP etc.. and MYSQL app packer!
 
 
 Steps:
+
 -Simply add your website/app content into the "site" directory. Run compile.bat
 
 -Wait for complete prompt.
